@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c4409fc0dfa1ea499ca62b0551c793f
+timeCreated: 1499562328
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Samson
+  fontNames:
+  - Samson
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
